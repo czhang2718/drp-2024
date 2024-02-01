@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Problem Setup}{3}{0}{1}
+\beamer@sectionintoc {2}{Variational Inference}{5}{0}{2}
+\beamer@sectionintoc {3}{Score Matching}{11}{0}{3}
+\beamer@sectionintoc {4}{Summary}{17}{0}{4}
