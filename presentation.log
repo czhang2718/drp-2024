@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.17)  1 FEB 2024 14:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.17)  1 FEB 2024 16:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -556,105 +556,10 @@ File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to the
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
-) (c:/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerthememetropolis.sty
-Package: beamerthememetropolis 2017/01/23 v1.2 Metropolis Beamer theme
- (c:/texlive/2023/texmf-dist/tex/latex/pgfopts/pgfopts.sty
-Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-\pgfopts@list@add@a@toks=\toks46
-\pgfopts@list@add@b@toks=\toks47
-) (c:/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerinnerthememetropolis.sty
-Package: beamerinnerthememetropolis 2017/01/23 Metropolis inner theme
- (c:/texlive/2023/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count338
-\calc@Bcount=\count339
-\calc@Adimen=\dimen302
-\calc@Bdimen=\dimen303
-\calc@Askip=\skip65
-\calc@Bskip=\skip66
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count340
-\calc@Cskip=\skip67
-) (c:/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-Package: pgf 2023-01-15 v3.1.10 (3.1.10)
- (c:/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box76
-) (c:/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen304
-\pgf@nodesepend=\dimen305
-) (c:/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (c:/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen306
-\pgffor@skip=\dimen307
-\pgffor@stack=\toks48
-\pgffor@toks=\toks49
-)) (c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2023-01-15 v3.1.10 (3.1.10)
- (c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count341
-\pgfplotmarksize=\dimen308
-)
-\tikz@lastx=\dimen309
-\tikz@lasty=\dimen310
-\tikz@lastxsaved=\dimen311
-\tikz@lastysaved=\dimen312
-\tikz@lastmovetox=\dimen313
-\tikz@lastmovetoy=\dimen314
-\tikzleveldistance=\dimen315
-\tikzsiblingdistance=\dimen316
-\tikz@figbox=\box77
-\tikz@figbox@bg=\box78
-\tikz@tempbox=\box79
-\tikz@tempbox@bg=\box80
-\tikztreelevel=\count342
-\tikznumberofchildren=\count343
-\tikznumberofcurrentchild=\count344
-\tikz@fig@count=\count345
- (c:/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count346
-\pgfmatrixcurrentcolumn=\count347
-\pgf@matrix@numberofcolumns=\count348
-)
-\tikz@expandcount=\count349
- (c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-\metropolis@titleseparator@linewidth=\skip68
-\metropolis@progressonsectionpage=\skip69
-\metropolis@progressonsectionpage@linewidth=\skip70
-\metropolis@blocksep=\skip71
-\metropolis@blockadjust=\skip72
-\metropolis@parskip=\skip73
-) (c:/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerouterthememetropolis.sty
-Package: beamerouterthememetropolis 2017/01/23 Metropolis outer theme
-\metropolis@frametitle@padding=\skip74
-\metropolis@progressinheadfoot=\skip75
-\metropolis@progressinheadfoot@linewidth=\skip76
-) (c:/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamercolorthememetropolis.sty
-Package: beamercolorthememetropolis 2017/01/23 Metropolis color theme
-) (c:/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerfontthememetropolis.sty
-Package: beamerfontthememetropolis 2017/01/23 Metropolis font theme
- (c:/texlive/2023/texmf-dist/tex/generic/iftex/ifxetex.sty
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-) (c:/texlive/2023/texmf-dist/tex/generic/iftex/ifluatex.sty
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-
-Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaLaTeX to use the Fira fonts on input line 95.
-
-)) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (c:/texlive/2023/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty (c:/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty) (c:/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty) (c:/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty) (c:/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count350
-\l__pdf_internal_box=\box81
+\l__color_backend_stack_int=\count338
+\l__pdf_internal_box=\box76
 )
 No file presentation.aux.
 \openout1 = `presentation.aux'.
@@ -685,14 +590,14 @@ LaTeX Font Info:    ... okay on input line 13.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=307.28987pt
+* \textwidth=342.2953pt
 * \textheight=244.6939pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -713,17 +618,17 @@ LaTeX Font Info:    ... okay on input line 13.
 
 (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count351
-\scratchdimen=\dimen317
-\scratchbox=\box82
-\nofMPsegments=\count352
-\nofMParguments=\count353
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count354
-\MPscratchDim=\dimen318
-\MPnumerator=\count355
-\makeMPintoPDFobject=\count356
-\everyMPtoPDFconversion=\toks51
+\scratchcounter=\count339
+\scratchdimen=\dimen302
+\scratchbox=\box77
+\nofMPsegments=\count340
+\nofMParguments=\count341
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count342
+\MPscratchDim=\dimen303
+\MPnumerator=\count343
+\makeMPintoPDFobject=\count344
+\everyMPtoPDFconversion=\toks47
 ) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -798,147 +703,146 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- (./presentation.nav)
-Overfull \vbox (44.55656pt too high) detected at line 18
- []
-
-[1
+ (./presentation.nav) [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-No file presentation.toc.
-[2
-
-]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
+<images/gmix.jpg, id=60, 604.2575pt x 356.33125pt>
+File: images/gmix.jpg Graphic file (type jpg)
+<use images/gmix.jpg>
+Package pdftex.def Info: images/gmix.jpg  used on input line 43.
+(pdftex.def)             Requested size: 171.14764pt x 100.92474pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
  (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
  (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 27.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 43.
  (c:/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-) [3
+) [2
+
+ <./images/gmix.jpg>] [3
 
 ]
-<images/gmix.jpg, id=34, 604.2575pt x 356.33125pt>
-File: images/gmix.jpg Graphic file (type jpg)
-<use images/gmix.jpg>
-Package pdftex.def Info: images/gmix.jpg  used on input line 44.
-(pdftex.def)             Requested size: 153.64493pt x 90.605pt.
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 44.
- (c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmss.fd
-File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [4
+Overfull \vbox (8.20677pt too high) detected at line 84
+ []
 
-{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./images/gmix.jpg>] [5
+[4
+
+]
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 96.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 96.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 96.
+ [5
 
 ] [6
 
 ]
-Overfull \vbox (31.11838pt too high) detected at line 85
- []
+<images/vae.png, id=240, 1495.5875pt x 407.5225pt>
+File: images/vae.png Graphic file (type png)
+<use images/vae.png>
+Package pdftex.def Info: images/vae.png  used on input line 126.
+(pdftex.def)             Requested size: 273.83728pt x 74.61319pt.
+ [7
 
-[7
-
-]
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 97.
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 97.
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 97.
- [8
+ <./images/vae.png>] [8
 
 ] [9
 
 ]
-<images/vae.png, id=79, 1495.5875pt x 407.5225pt>
-File: images/vae.png Graphic file (type png)
-<use images/vae.png>
-Package pdftex.def Info: images/vae.png  used on input line 127.
-(pdftex.def)             Requested size: 245.83282pt x 66.98335pt.
-
-Overfull \vbox (9.6894pt too high) detected at line 127
- []
-
-[10
-
- <./images/vae.png>] [11
-
-] [12
-
-] [13
-
-]
-<images/langevin.png, id=107, 587.19376pt x 224.33812pt>
+<images/langevin.png, id=344, 587.19376pt x 224.33812pt>
 File: images/langevin.png Graphic file (type png)
 <use images/langevin.png>
-Package pdftex.def Info: images/langevin.png  used on input line 172.
-(pdftex.def)             Requested size: 199.73653pt x 76.30818pt.
- [14
+Package pdftex.def Info: images/langevin.png  used on input line 171.
+(pdftex.def)             Requested size: 273.83728pt x 104.61737pt.
+ [10
 
  <./images/langevin.png>]
-<images/ALD.png, id=115, 331.2375pt x 254.45062pt>
+<images/ALD.png, id=386, 331.2375pt x 254.45062pt>
 File: images/ALD.png Graphic file (type png)
 <use images/ALD.png>
-Package pdftex.def Info: images/ALD.png  used on input line 191.
-(pdftex.def)             Requested size: 165.93497pt x 127.46571pt.
+Package pdftex.def Info: images/ALD.png  used on input line 190.
+(pdftex.def)             Requested size: 184.83772pt x 141.98663pt.
 
-Overfull \hbox (27.65547pt too wide) in paragraph at lines 191--191
+Overfull \hbox (30.8059pt too wide) in paragraph at lines 190--190
  [][] 
  []
 
-<images/noisy_l.png, id=116, 383.93437pt x 54.9553pt>
+<images/noisy_l.png, id=387, 383.93437pt x 54.9553pt>
 File: images/noisy_l.png Graphic file (type png)
 <use images/noisy_l.png>
-Package pdftex.def Info: images/noisy_l.png  used on input line 191.
-(pdftex.def)             Requested size: 152.10828pt x 21.77292pt.
+Package pdftex.def Info: images/noisy_l.png  used on input line 190.
+(pdftex.def)             Requested size: 169.43594pt x 24.2525pt.
 
-Overfull \hbox (13.82878pt too wide) in paragraph at lines 191--191
+Overfull \hbox (15.40411pt too wide) in paragraph at lines 190--190
  [][] 
  []
 
 
-c:/Users/czhan/OneDrive/Documents/DRP 2024/presentation.tex:191: LaTeX Error: There's no line here to end.
+c:/Users/czhan/OneDrive/Documents/DRP 2024/presentation.tex:190: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.191 \end{frame}
+l.190 \end{frame}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-c:/Users/czhan/OneDrive/Documents/DRP 2024/presentation.tex:191: LaTeX Error: There's no line here to end.
+c:/Users/czhan/OneDrive/Documents/DRP 2024/presentation.tex:190: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.191 \end{frame}
+l.190 \end{frame}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<images/noisy_ads_L.png, id=117, 243.15843pt x 60.225pt>
+<images/noisy_ads_L.png, id=388, 243.15843pt x 60.225pt>
 File: images/noisy_ads_L.png Graphic file (type png)
 <use images/noisy_ads_L.png>
-Package pdftex.def Info: images/noisy_ads_L.png  used on input line 191.
-(pdftex.def)             Requested size: 124.4507pt x 30.82368pt.
-[15
+Package pdftex.def Info: images/noisy_ads_L.png  used on input line 190.
+(pdftex.def)             Requested size: 138.6277pt x 34.33502pt.
+[11
 
- <./images/ALD.png> <./images/noisy_l.png> <./images/noisy_ads_L.png>] [16
+ <./images/ALD.png> <./images/noisy_l.png> <./images/noisy_ads_L.png>]
+<images/mix_gauss.png, id=420, 392.4261pt x 298.4751pt>
+File: images/mix_gauss.png Graphic file (type png)
+<use images/mix_gauss.png>
+Package pdftex.def Info: images/mix_gauss.png  used on input line 222.
+(pdftex.def)             Requested size: 75.30537pt x 57.27559pt.
+<images/vae_plot.png, id=421, 398.9304pt x 298.4751pt>
+File: images/vae_plot.png Graphic file (type png)
+<use images/vae_plot.png>
+Package pdftex.def Info: images/vae_plot.png  used on input line 222.
+(pdftex.def)             Requested size: 75.30537pt x 56.34195pt.
+<images/sm_plot.png, id=422, 398.9304pt x 298.4751pt>
+File: images/sm_plot.png Graphic file (type png)
+<use images/sm_plot.png>
+Package pdftex.def Info: images/sm_plot.png  used on input line 222.
+(pdftex.def)             Requested size: 75.30537pt x 56.34195pt.
+<images/anneal_sm.png, id=423, 398.9304pt x 298.4751pt>
+File: images/anneal_sm.png Graphic file (type png)
+<use images/anneal_sm.png>
+Package pdftex.def Info: images/anneal_sm.png  used on input line 222.
+(pdftex.def)             Requested size: 75.30537pt x 56.34195pt.
+ [12
 
-] [17
+ <./images/mix_gauss.png> <./images/vae_plot.png> <./images/sm_plot.png> <./images/anneal_sm.png>] [13
 
-] [18
+] [14
 
 ]
 \tf@nav=\write6
@@ -969,18 +873,18 @@ Package rerunfilecheck Info: Checksums for `presentation.out':
 (rerunfilecheck)             After:  242525AE45B29EE36933E64707585E8F;456.
  ) 
 Here is how much of TeX's memory you used:
- 26514 strings out of 474166
- 531503 string characters out of 5749518
- 1935542 words of memory out of 5000000
- 48265 multiletter control sequences out of 15000+600000
- 567943 words of font info for 70 fonts, out of 8000000 for 9000
+ 23233 strings out of 474166
+ 451180 string characters out of 5749518
+ 1940542 words of memory out of 5000000
+ 45050 multiletter control sequences out of 15000+600000
+ 566837 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,13n,123p,1920b,758s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb>
-Output written on presentation.pdf (18 pages, 738322 bytes).
+ 128i,15n,123p,448b,682s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on presentation.pdf (14 pages, 855062 bytes).
 PDF statistics:
- 218 PDF objects out of 1000 (max. 8388607)
- 150 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 602 PDF objects out of 1000 (max. 8388607)
+ 466 compressed objects within 5 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 369 words of extra memory for PDF output out of 10000 (max. 10000000)
 

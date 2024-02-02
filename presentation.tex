@@ -3,7 +3,7 @@
 \captionsetup[figure]{font=scriptsize,labelfont=scriptsize}
 
 % Choose your theme
-\usetheme{metropolis}
+\usetheme{Madrid}
 
 % Title page information
 \title{Probabilistic Modelling}
@@ -18,14 +18,13 @@
 \end{frame}
 
 % Table of Contents
-\begin{frame}
-  \frametitle{Outline}
-  \tableofcontents
-\end{frame}
+% \begin{frame}
+%   \frametitle{Outline}
+%   \tableofcontents
+% \end{frame}
 
 % Section 1
 \section{Problem Setup}
-
 \begin{frame}
     \frametitle{Problem}
     \begin{center}
@@ -58,7 +57,7 @@ View the $X$ as the effect of a cause $Z$. Assume the data is generated as follo
     We approximate $p(z)$ and $p(x|z)$ with parametric $p_{\theta}(z)$ and $p_{\theta}(x|z)$.
 
     \begin{block}{Goal}
-        Find $\theta$ such that $p_X(x) \approx p_{\theta}(x)$.
+        Find $\theta$ such that $p(x) \approx p_{\theta}(x)$.
     \end{block}
 \end{frame}
 
@@ -161,7 +160,7 @@ View the $X$ as the effect of a cause $Z$. Assume the data is generated as follo
     
     \begin{figure}
         \centering
-        \includegraphics[width=0.65\textwidth]{images/langevin.png}
+        \includegraphics[width=0.8\textwidth]{images/langevin.png}
         \caption[]{Sampling with true scores}
         \label{fig:als}
     \end{figure}
@@ -193,11 +192,33 @@ View the $X$ as the effect of a cause $Z$. Assume the data is generated as follo
 \begin{frame}
     \frametitle{Experiments}
     \begin{itemize}
-        \item synthetic data ~ mixture of gaussians
-        \item all parametric models were NN, except z=g(x, eps) = mu + eps * sigma
-        \item Code [github link]
+        \item I created synthetic data: 1D mixture of 2 gaussians
+        \item I creating 3-layer neural networks (linear + ReLU).
+        \item Code at \url{https://github.com/czhang2718/drp-2024}.
     \end{itemize}
-    PLOTS
+    \begin{figure}
+        \centering
+        \begin{minipage}{0.22\textwidth}
+            \centering
+            \includegraphics[width=1\textwidth]{images/mix_gauss.png}
+            \caption[]{Data}
+        \end{minipage}\hfill
+        \begin{minipage}{0.22\textwidth}
+            \centering
+            \includegraphics[width=1\textwidth]{images/vae_plot}
+            \caption[]{VAE samples}
+        \end{minipage}\hfill
+        \begin{minipage}{0.22\textwidth}
+            \centering
+            \includegraphics[width=1\textwidth]{images/sm_plot.png}
+            \caption[]{SM samples}
+        \end{minipage}\hfill
+        \begin{minipage}{0.22\textwidth}
+            \centering
+            \includegraphics[width=1\textwidth]{images/anneal_sm.png}
+            \caption[]{ASM samples}
+        \end{minipage}\hfill
+    \end{figure}
 \end{frame}
 
 % Section 4
@@ -222,6 +243,16 @@ View the $X$ as the effect of a cause $Z$. Assume the data is generated as follo
     \item Learn score estimator $\psi(x)$, or $\psi(x, \sigma)$
     \item Sample with (annealed) langevin sampling.
   \end{itemize}
+\end{frame}
+
+\begin{frame}
+    \frametitle{References}
+    \begin{itemize}
+        \item Kingma, D. P., \& Welling, M. (2013). Auto-encoding variational bayes. arXiv preprint arXiv:1312.6114.
+        \item Hyvärinen, A. (2005). Estimation of non-normalized statistical models by score matching. Journal of Machine Learning Research, 6(Dec), 695-709.
+        \item Song, Y. \& Ermon, S. (2019). Generative Modeling by Estimating Gradients of the
+        Data Distribution. arXiv preprint arXiv:1907.05600.
+    \end{itemize}
 \end{frame}
 
 \end{document}
